@@ -2,6 +2,14 @@
 
 A new Flutter project that updates Lexus financial app to modern design. This project is just for learning purposes.
 
+## Before
+
+<img src="images/screen1.png" width="200" height="400"> <img src="images/screen2.png" width="200" height="400">
+
+## After
+
+<img src="images/Screen Shot 1.png" width="200" height="400"> <img src="images/Screen Shot 2.png" width="200" height="400">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

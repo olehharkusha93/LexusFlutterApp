@@ -1,6 +1,6 @@
-# hello_world
+# LexusFlutterApp
 
-A new Flutter project.
+A new Flutter project that updates Lexus financial app to modern design. This project is just for learning purposes.
 
 ## Getting Started
 
